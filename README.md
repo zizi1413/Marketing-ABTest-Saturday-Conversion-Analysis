@@ -90,4 +90,4 @@ Based on the data:
 
 ---
 ## 👤 Author
-Created as a portfolio project for demonstrating statistical analysis and hypothesis testing skills in marketing analytics.
+Created by: zohreh samieekadkani LinkedIn: https://www.linkedin.com/in/zohreh-samieekadkani-24204z1413
