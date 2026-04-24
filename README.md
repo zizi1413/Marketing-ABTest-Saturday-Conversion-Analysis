@@ -1,4 +1,4 @@
-# Marketing A/B Test — Saturday Conversion Hypothesis Testing
+# Marketing A/B Test
 
 ## 📌 Project Overview
 This project analyzes a marketing A/B testing dataset to evaluate a business claim:
@@ -90,4 +90,4 @@ Based on the data:
 
 ---
 ## 👤 Author
-Created by: zohreh samieekadkani LinkedIn: https://www.linkedin.com/in/zohreh-samieekadkani-24204z1413
+Created by: zohreh samieekadkani LinkedIn:https://www.linkedin.com/in/zohrehsamiee/
